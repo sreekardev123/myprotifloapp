@@ -20,7 +20,7 @@ const Home = () => {
     const typed = new Typed(typedRef.current, options);
 
     return () => {
-      typed.destroy(); // Corrected method name
+      typed.destroy(); 
     };
   }, []);
 
