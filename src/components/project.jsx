@@ -72,7 +72,7 @@ const Projects = () => {
                 borderRadius: "5px",
                 textDecoration: "none",
                 
-                // display:data.Demo ? "inline-block":"none"
+                
               }}
             >
               Demo
